@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Kiko Whiteley",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://keekss.github.io/images/kiko.png",
+    "email": "new2@hawaii.edu",
+    "phone": "808-741-1881",
+    "website": "https://keekss.github.io",
+    "summary": "I am studying Mathematics and Computer Science at the University of Hawaii.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,41 +17,31 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "keekss",
+        "url": "http://github.com/keekss"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "kiko-whiteley",
+        "url": "https://www.linkedin.com/in/kiko-whiteley/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Data science",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "",
+        ""
       ]
     },
     {
-      "name": "data mining",
+      "name": "Graph theory",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial intelligence",
       "keywords": [
       ]
     }
@@ -61,12 +51,11 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "HTML/CSS",
+        "Python"
       ]
     },
     {
