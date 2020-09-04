@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Parse & Plan
+title: Parse and Plan
 # All dates must be YYYY-MM-DD format!
 date: 2016-09-03
 labels:
