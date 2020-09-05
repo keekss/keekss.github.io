@@ -54,6 +54,7 @@
         "Javascript",
         "HTML/CSS",
         "Python"
+        "Excel Visual Basic"
       ]
     },
     {
@@ -61,20 +62,37 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Hawaii at Manoa",
+      "area": "Computer Science (expected Spring, 2022)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2020-01-13",
       "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii at Manoa",
+      "area": "Mathematics (expected Spring, 2022)",
+      "studyType": "B.S.",
+      "startDate": "2020-01-13",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+        {
+      "institution": "Southern Methodist University",
+      "area": "General Business",
+      "studyType": "B.B.A",
+      "startDate": "2013-08-24",
+      "endDate": "2018-05-20",
       "gpa": "",
       "courses": [
       ]
