@@ -124,7 +124,7 @@
       "position": "Private Equity Intern",
       "website": "",
       "startDate": "2015-08-30",
-      "endDate": "208-05-04",
+      "endDate": "2018-05-04",
       "summary": "",
       "highlights": [
         "Automated conditional data retrieval and aggregation from closed Excel workbooks using Excel Visual Basic programming",
@@ -134,28 +134,14 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "organization": "Tunes for Texas",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "position": "Event Organizer and Performer",
+      "startDate": "2013-09-01",
+      "endDate": "2018-05-20",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Organized and performed music in four annual university clothing drives as well as Christmas caroling and music teaching events at Dallas elementary and middle schools"
       ]
     }
   ],
