@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/trivial.png
-title: Vacay
-permalink: projects/vacay
+title: Trivial
+permalink: projects/trivial
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
 labels:
