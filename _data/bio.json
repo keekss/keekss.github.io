@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Kiko Whiteley",
+    "name": "Molly Maluhia",
     "label": "Student",
-    "picture": "https://keekss.github.io/images/kiko.png",
-    "email": "new2@hawaii.edu",
-    "phone": "808-741-1881",
-    "website": "https://keekss.github.io",
-    "summary": "I am studying Mathematics and Computer Science at the University of Hawaii.",
+    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "email": "molly@hawaii.edu",
+    "phone": "808-333-4444",
+    "website": "https://mmaluhia.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
-      "postalCode": "",
+      "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,29 +17,41 @@
     "profiles": [
       {
         "network": "github",
-        "username": "keekss",
-        "url": "http://github.com/keekss"
+        "username": "mmaluhia",
+        "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
-        "username": "kiko-whiteley",
-        "url": "https://www.linkedin.com/in/kiko-whiteley/"
+        "username": "mollymaluhia",
+        "url": "http://linkedin.com/in/changeme"
+      },
+      {
+        "network": "twitter",
+        "username": "mollymal",
+        "url": "http://twitter.com/changeme"
+      },
+      {
+        "network": "instagram",
+        "username": "molly",
+        "url": "http://instagram.com/changeme"
       }
     ]
   },
   "interests": [
     {
-      "name": "Data science",
+      "name": "internet of things",
+      "keywords": [
+        "Arduino",
+        "TI MSP430"
+      ]
+    },
+    {
+      "name": "data mining",
       "keywords": [
       ]
     },
     {
-      "name": "Graph theory",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Artificial intelligence",
+      "name": "artificial intelligence",
       "keywords": [
       ]
     }
@@ -49,12 +61,12 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
+        "C",
         "C++",
         "Java",
         "Javascript",
-        "HTML/CSS",
-        "Python"
-        "Excel Visual Basic"
+        "Assembly",
+        "Common Lisp"
       ]
     },
     {
@@ -62,37 +74,23 @@
       "level": "",
       "keywords": [
         "MacOS",
+        "Ubuntu",
         "Git/GitHub",
+        "g++",
+        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2022)",
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2020",
+      "startDate": "2013-09-01",
       "endDate": "Present",
       "gpa": "",
-      "courses": []
-    },
-    {
-      "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Mathematics (expected Spring, 2022)",
-      "studyType": "B.S.",
-      "startDate": "2020-01-13",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": []
-    },
-    {
-      "institution": "Southern Methodist University, Dallas, TX",
-      "area": "General Business",
-      "studyType": "B.B.A",
-      "startDate": "2013-08-24",
-      "endDate": "2018-05-20",
-      "gpa": "",
-      "courses": []
+      "courses": [
+      ]
     }
   ],
   "work": [
