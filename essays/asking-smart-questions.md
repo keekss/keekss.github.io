@@ -8,6 +8,8 @@ labels:
   - Software Engineering
 ---
 
+# Header
+
 A user asking [how to access the values in an array of lists of pairs](https://stackoverflow.com/questions/63562412/accessing-the-values-in-an-array-of-lists-of-pairs) demonstrates many aspects of good question-asking.  The asker is attempting to combine the name and price of list items in a hashmap to make a single statement, i.e. "<name>: <price>" but is experiencing an indexing error.
 
 The post starts by giving a concise example of the issue rather than an excessive sample of code, then indicates the goal rather than simply what's wrong.  Importantly, the user also indicates that the documentation has already been checked, and that it lacks insight on the issue at hand.  The user also gives appropriate labels to the question, indicating the language and data stucture mainly involved.
