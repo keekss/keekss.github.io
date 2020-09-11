@@ -14,7 +14,7 @@ Stack Exchange volunteers often read questions knowing the variance in total imp
 
 Beyond good attitudes, volunteers gravitate toward questions that streamline the actual helping process, in light of time's opportunity cost.  This entails the asker clearly stating the central goal, showing an elementary test case, and detailing the troubleshooting already performed, among other things.
 
-If helping you is shown to be, and earnestly is, an efficient mode for others to create net positives, your questions are relatively likely to receive thorough and timely answers.  Further, the mindset of seeing help as something that improves you, and perhaps others, rather than just your tasks / situation, will help in being a lifelong learner.
+If helping you appears to be, and earnestly is, an efficient mode for others to create net positives, your questions are relatively likely to receive thorough and timely answers.  Further, the mindset of seeing help as something that improves you, and perhaps others, rather than just your tasks / situation, will help in being a lifelong learner.
 
 ### Example: Adherence to Guidelines
 
