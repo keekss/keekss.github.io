@@ -8,7 +8,11 @@ labels:
   - Software Engineering
 ---
 
-# Header
+## The Most Impact
+
+Volunteer question-answers want their 
+
+## Adheres Well to Guidelines
 
 A user asking [how to access the values in an array of lists of pairs](https://stackoverflow.com/questions/63562412/accessing-the-values-in-an-array-of-lists-of-pairs) demonstrates many aspects of good question-asking.  The asker is attempting to combine the name and price of list items in a hashmap to make a single statement, i.e. "<name>: <price>" but is experiencing an indexing error.
 
@@ -16,6 +20,7 @@ The post starts by giving a concise example of the issue rather than an excessiv
 
 This user reflected Eric Raymond's statement that "it's okay to be ignorant" but not to avoid helping yourself, as the user states their attempt to solve the issue and plainly asks, "how do I do it?" rather than blaming the issue on a shortcoming of the programing language / development environment, or claiming they simply lacked the time to solve the issue on their own.
 
+## Opportunity for Improvement
 
 A different user asking [for help with a declaration or statement](https://stackoverflow.com/questions/63843204/hi-i-keep-having-a-problem-with-declaration-or-statement-expected-ts1128-plea)  abided by some of the smart questions guidelines but missed a few important ones.  The asker is receiving an error indicating that a declaration or statement is expected, but where in the code the issue appears is not easily clear due to the structure of the post.  Most notably, the user inundated the question with large chunks of code that, according to some replies, had no bearing on the issue at hand.  The asker ends up isolating a small code block wherein an specific issue is occurring, but this should have been one of the leading points.
 
