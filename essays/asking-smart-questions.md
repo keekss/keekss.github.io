@@ -1,16 +1,16 @@
 ---
 layout: essay
 type: essay
-title: Asking Smart Questions
+title: Greater Questions, Greater Impact
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-10
 labels:
   - Software Engineering
 ---
 
-### Maximizing Impact
+### Maximizing Goodwill
 
-Stack Exchange volunteers often read questions knowing the variance in total impact that a given amount of help can have, depending on the mindset of the help's beneficiary.  For example, someone asking a volunteer to "gopher" through their busy work will likely, upon receiving that help, use it to complete their task and forget about the ordeal shortly thereafter.  On the contrary, a curious programmer at an impasse who has reasonably sought their own help, will likely, upon receiving an answer, take that new knowledge with them, perhaps have a chance to share it with others, and ideally, learn something about how to help themself by witnessing a veteran's methodology.  Volunteers don't ignore certain questions because they don't want to help; rather, they know that their time is more effectively spent helping those who will pay that goodwill foward into larger, and perhaps lasting, impacts.
+Stack Exchange volunteers often read questions knowing the variance in total impact that a given amount of help can have, depending on the mindset of the help's beneficiary.  For example, someone asking a volunteer to complete their busy work would likely forget about the ordeal shortly after it's resolved.  On the contrary, a curious programmer at an impasse who has reasonably sought their own help, will likely, upon receiving an answer, take that new knowledge with them, perhaps have a chance to share it with others, and ideally, learn something about how to help themself by witnessing a veteran's methodology.  Volunteers don't ignore certain questions because they don't want to help; rather, they know that their time is more effectively spent helping those who will pay that goodwill foward into larger, and perhaps lasting, impacts.
 
 Beyond good attitudes, volunteers gravitate toward questions that streamline the actual helping process, in light of time's opportunity cost.  This entails the asker clearly stating the central goal, showing an elementary test case, and detailing the troubleshooting already performed, among other things.
 
