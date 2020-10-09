@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: The Semi-Powered Ornithopter
+title: The Semi-Motorized Ornithopter
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-24
 labels:
