@@ -9,7 +9,7 @@ labels:
   - UI Frameworks
 ---
 
-<img src="../images/ornithopter.png">
+<img style="height: 500px;" src="../images/ornithopter.png">
 
 Learning a new framework instead of diving straight into a project using already-familiar tools can seem like an unworthy undertaking, especially when internal and/or external forces just want to "see paint on the wall" quickly for tangible reassurance of a project's progress.
 
@@ -21,7 +21,10 @@ Enter the ornithopter - for those unfamiliar, an ornithopter is an aircraft flow
 
 As you might guess, an ornithopter is quite difficult to learn how to pilot, and learning how to fly one certainly wouldn't get you 50 meters up a hill quicker than just hiking there.  However, with the aid of an engine, an ornithopter can be quite worth learning, especially for higher climbs.*
 
-We can liken the motor power of the ornithopter to the often vast codebase powering the frameworks we can use.
+We can liken the motor power of the ornithopter to the often vast codebase powering the frameworks we can use.** 
+
+But to the crux of the analoggy; 
 
 *  For the sake of our analogy, we can assume the ornithopter is perfectly safe to operate).
+
 ** We can let the fuel be largely sustainably-sourced and low-emission, as well-written codebases may, in turn, consume less computing power than similar functionalities written from raw HTML and CSS, etc.
