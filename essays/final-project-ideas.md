@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Final Project Idea: Interactive Academic Path & Progress Visualizer
+title: Final Project Idea: Interactive Academic Path and Progress Visualizer
 # All dates must be YYYY-MM-DD format!
 date: 2020-11-04
 labels:
