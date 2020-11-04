@@ -16,7 +16,7 @@ Note: I imagine this has been thought of before, but I’ll outline the idea bel
 ## Overview (including “The problem” and “The solution”)
 
 #### The problem
-Though some UH degree plans provide a static flowchart, [such as these for the Bachelor's in ICS degrees] (https://www.ics.hawaii.edu/academics/undergraduate-degree-programs/bs-ics/), an interactive visualizer of your path / timing and progress for your current degree plan could be a nice visual accompaniment to STAR’s Academic Essentials tab.
+Though some UH degree plans provide a static flowchart, [such as these for the Bachelor's in ICS degrees](https://www.ics.hawaii.edu/academics/undergraduate-degree-programs/bs-ics/), an interactive visualizer of your path / timing and progress for your current degree plan could be a nice visual accompaniment to STAR’s Academic Essentials tab.
 
 #### The solution
 A separate browser tab openable when logged in to one's STAR account will populate 
