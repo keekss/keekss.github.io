@@ -26,16 +26,19 @@ Dependencies / prerequisites will be indicated with arrows (wherein prerequisite
 ## Mockup page ideas
 Major requirements will be shown in the middle of the screen, and general requirements will be shown at the top.  Degree plans will be selectable from a dropdown menu.  Ideally, this would support double majors, but v1 would support single majors.
 
-Semester credit hour totals as well as total credits remaining would be visible
+Semester credit hour totals as well as total credits remaining would be visible.
 
-Note: the page would need several caveats, such as the last date the system was updated for a specific degree plan, the fact that not every class is available every semester, that seat availability is limited, etc.
+Note
+- The page would need several caveats, such as the last date the system was updated for a specific degree plan, the fact that not every class is available every semester, that seat availability is limited, etc.
+- To gauge feasibility and usefulness, this would first be implemented just within the ICS department.
 
 ## Use case ideas
-- User is considering switching tracks and wants to see how their current progress stacks up with another degree plan / how the other track affects their timing and remanining required hours.
-- User wants to optimize their path to graduation through remaining required time and/or 
+- User is considering switching tracks and wants to see how their current progress stacks up with a different track / how the other track affects their timing and remanining required hours.
+- User wants to optimize their path to graduation through remaining required time and/or credit hours.
 
 ## Beyond the basics
 - Support for departments beyond ICS
 - Support for double majors
+- Support for prospective students (who don't have a MyUH account) and are willing to manually enter AP credits etc.
 - Indication of available courses to satisfy general eduction requirements (requires direct interaction with STAR database)
 - Very difficult: interaction with STAR's actual enrollment system (though this would presumably involve too many variables and permissions, maintenance, etc. to be feasible in the scope of this project).
