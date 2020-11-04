@@ -22,15 +22,15 @@ Though some UH degree plans provide a static flowchart, [such as these for the B
 #### The solution
 A separate browser tab openable when logged in to one's STAR account will populate a semester-separted flowchart with color-coding / shading for progress and a click-and-drag interface so students can visually experiment with the timings and intra-semester combinations of their degree's remainig requirements.  
 
-Dependencies / prerequisites will be indicated with arrows (wherein prerequisites cannot be dragged into the same semester with their prerequisites) and an "enrollment override" checkbox if applicable.
+Dependencies / prerequisites will be indicated with arrows (wherein prerequisites cannot be dragged into the same semester with their prerequisites) and an "enrollment override" checkbox if applicable.  The prerequisite relationships may be complex, and a clean user interface may require a modified approach.
 
 ## Mockup page ideas
 Major requirements will be shown in the middle of the screen, and general requirements will be shown at the top.  Degree plans will be selectable from a dropdown menu.  Ideally, this would support double majors, but v1 would support single majors.
 
 Semester credit hour totals as well as total credits remaining would be visible.
 
-Note
-- The page would need several caveats, such as the last date the system was updated for a specific degree plan, the fact that not every class is available every semester, that seat availability is limited, etc.
+Note:
+- The page would need several caveats, such as the last date the database/system was updated for a specific degree plan, the fact that not every class is available every semester, that seat availability is limited, etc.
 - To gauge feasibility and usefulness, this would first be implemented just within the ICS department.
 
 ## Use case ideas
