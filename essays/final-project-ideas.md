@@ -1,15 +1,13 @@
 ---
 layout: essay
 type: essay
-title: The Safe, Semi-Motorized Ornithopter
+title: Final Project Idea: Interactive Academic Path & Progress Visualizer
 # All dates must be YYYY-MM-DD format!
-date: 2020-09-24
+date: 2020-11-04
 labels:
   - Software Engineering
-  - UI Frameworks
+  - Meteor
 ---
-
-<img style="height: 500px;" src="../images/ornithopter.png">
 
 Learning a new framework instead of diving straight into a project using already-familiar tools can seem like an unworthy undertaking, especially when internal and/or external forces just want to "see paint on the wall" quickly for tangible reassurance of a project's progress.
 
