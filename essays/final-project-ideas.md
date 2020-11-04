@@ -16,9 +16,11 @@ Note: I imagine this has been thought of before, but I’ll outline the idea bel
 ## Overview (including “The problem” and “The solution”)
 
 #### The problem
-Though some UH degree plans provide a static flowchart, an interactive visualizer of your path / timing and progress for your current degree plan could be a nice visual accompaniment to STAR’s Academic Essentials tab.
+Though some UH degree plans provide a static flowchart, [such as these for the Bachelor's in ICS degrees] (https://www.ics.hawaii.edu/academics/undergraduate-degree-programs/bs-ics/), an interactive visualizer of your path / timing and progress for your current degree plan could be a nice visual accompaniment to STAR’s Academic Essentials tab.
 
 #### The solution
+A separate browser tab openable when logged in to one's STAR account will populate 
+
 When opened from STAR, a separate browser tab will populate current degree plan, current and completed courses, and planned upcoming courses into a semester-separated flowchart indicating progress.  Prerequisites will be indicated with a 
 
 Note: ideally, this could synchronize with the actual registration system of STAR, but this would involve too many variables and permissions, maintenance, etc. to be feasible in the scope of this project.
