@@ -8,7 +8,7 @@ labels:
   - Software Engineering
   - Meteor
 ---
-
+# Academic Path & Progress Visualizer
 <img style="height: 300px;" src="../images/generic-flowchart.png">
 
 Note: I imagine this has been thought of before, but I’ll outline the idea below in case it has any unique elements:
