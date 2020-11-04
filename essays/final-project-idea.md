@@ -12,9 +12,9 @@ labels:
 # Academic Path & Progress Visualizer
 <img style="height: 300px;" src="../images/generic-flowchart.png">
 
-Note: I imagine this has been thought of before, but I’ll outline the idea below in case it has any unique elements:
+Note: This has likely been thought of before, but, in case of any unique elements, the idea is outlined below.
 
-## Overview (including “The problem” and “The solution”)
+## Overview
 
 #### The problem
 Though some UH degree plans provide a static flowchart, [such as these for the Bachelor's in ICS tracks](https://www.ics.hawaii.edu/academics/undergraduate-degree-programs/bs-ics/), an interactive visualizer of your path / timing and progress for your current degree plan could be a nice visual accompaniment to STAR’s Academic Essentials tab.
