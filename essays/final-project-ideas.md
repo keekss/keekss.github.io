@@ -19,7 +19,7 @@ Note: I imagine this has been thought of before, but I’ll outline the idea bel
 Though some UH degree plans provide a static flowchart, an interactive visualizer of your path / timing and progress for your current degree plan could be a nice visual accompaniment to STAR’s Academic Essentials tab.
 
 #### The solution
-When opened from STAR, a separate browser tab will populate current degree plan, current and completed courses, and planned upcoming courses into a semester-separated flowchart indicating progress. 
+When opened from STAR, a separate browser tab will populate current degree plan, current and completed courses, and planned upcoming courses into a semester-separated flowchart indicating progress.  Prerequisites will be indicated with a 
 
 Note: ideally, this could synchronize with the actual registration system of STAR, but this would involve too many variables and permissions, maintenance, etc. to be feasible in the scope of this project.
 
