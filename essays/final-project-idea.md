@@ -7,6 +7,7 @@ date: 2020-11-04
 labels:
   - Software Engineering
   - Meteor
+  - Academic Advising
 ---
 # Academic Path & Progress Visualizer
 <img style="height: 300px;" src="../images/generic-flowchart.png">
@@ -37,8 +38,8 @@ Note
 - User wants to optimize their path to graduation through remaining required time and/or credit hours.
 
 ## Beyond the basics
+- Indication of available courses to satisfy general eduction requirements (requires direct interaction with STAR database).  STAR currently has a user-friendly search for this, but direct integration into the visualizer could be helpful.
 - Support for departments beyond ICS
 - Support for double majors
 - Support for prospective students (who don't have a MyUH account) and are willing to manually enter AP credits etc.
-- Indication of available courses to satisfy general eduction requirements (requires direct interaction with STAR database)
 - Very difficult: interaction with STAR's actual enrollment system (though this would presumably involve too many variables and permissions, maintenance, etc. to be feasible in the scope of this project).
