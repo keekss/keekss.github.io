@@ -36,6 +36,7 @@ Note:
 ## Use case ideas
 - User is considering switching tracks and wants to see how their current progress stacks up with a different track / how the other track affects their timing and remanining required hours.
 - User wants to optimize their path to graduation through remaining required time and/or credit hours.
+- User wants to view the effect of "spacing out" known difficult classes across different semesters on graduation timing etc.
 
 ## Beyond the basics
 - Indication of available courses to satisfy general eduction requirements (requires direct interaction with STAR database).  STAR currently has a user-friendly search for this, but direct integration into the visualizer could be helpful.
