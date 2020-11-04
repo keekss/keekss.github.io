@@ -16,25 +16,23 @@ Note: I imagine this has been thought of before, but I’ll outline the idea bel
 ## Overview (including “The problem” and “The solution”)
 
 #### The problem
-Though some UH degree plans provide a static flowchart, [such as these for the Bachelor's in ICS degrees](https://www.ics.hawaii.edu/academics/undergraduate-degree-programs/bs-ics/), an interactive visualizer of your path / timing and progress for your current degree plan could be a nice visual accompaniment to STAR’s Academic Essentials tab.
+Though some UH degree plans provide a static flowchart, [such as these for the Bachelor's in ICS tracks](https://www.ics.hawaii.edu/academics/undergraduate-degree-programs/bs-ics/), an interactive visualizer of your path / timing and progress for your current degree plan could be a nice visual accompaniment to STAR’s Academic Essentials tab.
 
 #### The solution
-A separate browser tab openable when logged in to one's STAR account will populate 
+A separate browser tab openable when logged in to one's STAR account will populate a semester-separted flowchart with color-coding / shading for progress and a click-and-drag interface so students can visually experiment with the timings and combinations of their degree's remainig requirements.  
 
-When opened from STAR, a separate browser tab will populate current degree plan, current and completed courses, and planned upcoming courses into a semester-separated flowchart indicating progress.  Prerequisites will be indicated with a 
-
-Note: ideally, this could synchronize with the actual registration system of STAR, but this would involve too many variables and permissions, maintenance, etc. to be feasible in the scope of this project.
+Dependincies / prerequisites will be indicated with arrows (wherein prerequisites cannot be dragged into the same semester with their prerequisites) and an "enrollment override" checkbox if applicable.
 
 ## Mockup page ideas
-On STAR’s Academic Essentials tab, 
+Major requirements will be shown in the middle of the screen, and general requirements will be shown at the top.  Degree plans will be selectable from a dropdown menu.  Ideally, this would support double majors, but v1 would support single majors.
 
+Note: ideally, this could synchronize with the actual registration system of STAR, 
+
+Note: the page would need several caveats, such as the last date the system was updated for a specific degree plan, the fact that not every class is available every semester, that seat availability is limited, etc.
 
 ## Use case ideas
 
 ## Beyond the basics
-The page would need several caveats, such as the last date the system was updated for a specific degree plan, the fact that not every class is available every semester, that seat availability is limited, etc.
-
-A “v1” of this product would be an overlay or separate page that pulls data from a STAR page but requires no direct interaction with the internal STAR system.  If 
-
-This project would have two major paths:
-Integration with 
+- Support for double majors
+- Indication of available courses to satisfy general eduction requirements (requires direct interaction with STAR database)
+- Very difficult: interaction with STAR's actual enrollment system (though this would presumably involve too many variables and permissions, maintenance, etc. to be feasible in the scope of this project).
