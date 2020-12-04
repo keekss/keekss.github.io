@@ -24,5 +24,5 @@ Design patterns take on a similar role for programmers – if you’re keen to q
 
 Finally, the widespread use of these forms shouldn’t confine one’s thinking to the paradigm – quality is still the end goal; guiding forms are facilitators, not boundaries.
 
-I've worked with the MVC design pattern in iOS programming, during which I've also worked with the Singleton design, also in programming projects at UH such as the Manoa Pizza Bakery from ICS 211.  Now knowing the formal definitions of the common design patterns their benefits when consciously sought out, I will look to use them to “stand on the shoulders of giants” when I can.
+I've worked with the MVC design pattern in iOS programming, during which I've also worked with the Singleton design, also in programming projects at UH such as the Manoa Pizza Bakery from ICS 211.  Now knowing the formal definitions of the common design patterns and their benefits when consciously sought out, I will look to use them to “stand on the shoulders of giants” when I can.
 
