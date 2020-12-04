@@ -8,5 +8,5 @@ labels:
   - Software Engineering
 ---
 
-<img style="height: 500px;" src="../images/circle-of-fifths.png"> <img style="height: 500px;" src="../images/heros-journey.png">
+<img style="display: inline; height: 300px;" src="../images/circle-of-fifths.png"> <img style="display: inline; height: 300px;" src="../images/heros-journey.png">
 
