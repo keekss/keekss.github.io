@@ -22,7 +22,7 @@ Storytellers and writers throughout history have, similarly to musicians, simply
 
 Design patterns take on a similar role for programmers – if you’re keen to quality, you may achieve the form without knowing it.  But even for experts, a little guidance can save a lot of grief and expand one’s bottom-line potential.
 
-Finally, the widespread use of these forms shouldn’t confine one’s thinking to the paradigm – quality is still the end goal; guiding forms are a facilitator, not the boundary.
+Finally, the widespread use of these forms shouldn’t confine one’s thinking to the paradigm – quality is still the end goal; guiding forms are facilitators, not boundaries.
 
 I've worked with the MVC design pattern in iOS programming, during which I've also worked with the Singleton design, also in programming projects at UH such as the Manoa Pizza Bakery from ICS 211.  Now knowing the formal definitions of the common design patterns their benefits when consciously sought out, I will look to use them to “stand on the shoulders of giants” when I can.
 
