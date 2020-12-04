@@ -10,5 +10,6 @@ labels:
   - Music Theory
 ---
 
-<img style="display: inline-block; height: 300px;" src="../images/circle-of-fifths.png"> <img style="display: inline-block; height: 300px;" src="../images/heros-journey.png">
+<img style="display: inline-block; height: 300px; margin-left: auto;" src="../images/circle-of-fifths.png"> <img style="display: inline-block; height: 300px; margin-right: auto;" src="../images/heros-journey.png">
 
+Two comparisons jump to mind when thinking of design patterns: music theory and storytelling templates.  
