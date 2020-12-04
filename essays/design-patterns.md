@@ -12,7 +12,7 @@ labels:
 
 <img style="display: inline-block; height: 300px; margin-left: auto; margin-right: auto;" src="../images/circle-of-fifths.png"> <img style="display: inline-block; height: 300px; margin-left: auto; margin-right: auto;" src="../images/heros-journey.png">
 
-Two comparisons jump to mind when considering design patterns: music theory and storytelling templates. Both are forms found in quality work, whether or not followed consciously-- optional but recommended. Throughout time, pioneers and/or veterans of their fields identified commonalities in quality, described those themes, and shared them, so that others of lesser experience could make the most of their trials and triumphs.
+Two comparisons jump to mind when considering design patterns: music theory and storytelling templates. Both are forms found in quality work, whether or not followed consciously-- optional but recommended. Throughout time, pioneers and/or veterans of their fields identified commonalities in quality, described those themes, and shared them, so that those of lesser experience could make the most of their trials and triumphs.
 
 In the early stages of music, people just made sounds they liked. And of course, such is still often the end goal, but the insights of music theory, and more casually, musical genres, guide the modern songwriting process. Music is such an emotional endeavor, however, that people often obey the laws of musical theories and fit genres without realizing it. A lover of reggae music may instinctively put emphasis on the upbeats of songs, knowing simply that it sounds good.
 
