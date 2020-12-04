@@ -3,13 +3,10 @@ layout: essay
 type: essay
 title: Design Patterns
 # All dates must be YYYY-MM-DD format!
-date: 2020-09-10
+date: 2020-12-03
 labels:
   - Software Engineering
 ---
 
-### Maximizing Goodwill
+<img style="height: 500px;" src="../images/circle-of-fifths.png"> <img style="height: 500px;" src="../images/heros-journey.png">
 
-
-
-Stack Exchange volunteers often read questions knowing the variance in total impact that a given amount of help can have, depending on the mindset of the help's beneficiary.  For exampl
