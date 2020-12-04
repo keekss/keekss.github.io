@@ -10,5 +10,5 @@ labels:
   - Music Theory
 ---
 
-<img style="display: inline; height: 300px;" src="../images/circle-of-fifths.png"> <img style="display: inline; height: 300px;" src="../images/heros-journey.png">
+<img style="display: inline-block; height: 300px;" src="../images/circle-of-fifths.png"> <img style="display: inline-block; height: 300px;" src="../images/heros-journey.png">
 
