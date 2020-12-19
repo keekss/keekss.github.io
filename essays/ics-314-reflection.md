@@ -16,7 +16,7 @@ labels:
 
 A recurrent theme, which ICS 314 proved to me most directly, is that––before any code––planning exhaustively within your current scope, then repeating as things change, though seemingly overly-cautious, saves time.
 
-The adage "measure twice, cut once" echoes into many things; however, in software engineering, I would rephrase it as "measure once, but far and often."  As tools in computer science are very discrete, unlike spectra such as length, a single measurement for each task will suffice<sup>1</sup>.  Yet, assessing in detail several steps ahead coupled with open-mindedness to again consider alternatives in light of new information is the true time saver.
+The adage "measure twice, cut once" echoes into many things; however, in software engineering, I would rephrase it as "measure once, but far and often."  As tools in computer science are very discrete, unlike spectra such as length, a single measurement for each task will suffice.<sup>1</sup>  Yet, assessing in detail several steps ahead coupled with open-mindedness to again consider alternatives in light of new information is the true time saver.
 
 Throughout planning, certain things may fall outside of your scope of knowledge, and coding through simple examples to answer your questions is optimal.
 
