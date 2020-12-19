@@ -22,7 +22,7 @@ Even early in the process of planning, certain things may fall outside of your s
 
 My Essay "The Safe, Semi-Motorized Ornithopter" outlines this idea in relation to UI Frameworks, but I've found it to be ubiquitous in software engineering.
 
-Functional programming further illustrated to me the power of "wide scope of measurement," as chaining functions together in a well-thought-out sequence can circumvent temporary storage, entire classes, and can even provide expand bottom-line capabilities.
+Functional programming further illustrated to me the power of a "wide scope of measurement," as chaining functions together in a well-thought-out sequence can circumvent temporary storage, entire classes, and can even provide expand bottom-line capabilities.
 
 ## Redirecting Instinct
 
