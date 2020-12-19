@@ -32,4 +32,4 @@ However, through several unfortunately backtracked and rehashed implementation e
 
 Rather than block out this instinct, however, I suggest re-framing what that impulse prompts- that is, planning, though absent from executables, is empirical, measurable progress.  Allowing your mind to more accurately focus that "go-to" mindset can utilize the best of both worlds.
 
-<sup>1</sup> One might contend that "measuring twice" is more about correctness of procedure than analog accuracy, but "measuring far" in software engineering entails also considering alternatives- in effect, double-checking that your procedure is efficient.
+<sup>1</sup> One might contend that "measuring twice" is more about correctness of procedure than analog accuracy, but "measuring far" in software engineering entails also considering alternatives, thus double-checking that your procedure is efficient.
