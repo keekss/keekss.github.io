@@ -28,7 +28,7 @@ My essay "The Safe, Semi-Motorized Ornithopter" outlines this idea in relation t
 
 As creatures that like to have things addressed and done, our common (and often helpful) impulse is simply to start and adjust as we go.  For tasks with small implementation variance, such as chores, this is all we need.  And for something like software engineering, wherein just how much you've done is easily measurable, our instinct to get that "progress bar" filling as soon as possible is strong.
 
-However, through several unfortunately backtracked and rehashed implementation endeavours, the disheartening process of deleting blocks upon blocks of code has ingrained in me that cutting corners often requires you to run part of all of the race over.
+However, through several unfortunately backtracked and rehashed implementation endeavours, the disheartening process of deleting blocks upon blocks of code has ingrained in me that cutting corners often requires you to run part or all of the race over.
 
 Rather than block out this instinct, however, I suggest re-framing what that impulse prompts- that is, planning, though absent from executables, is empirical, measurable progress.  Allowing your mind to more accurately focus that "go-to" mindset can utilize the best of both worlds.
 
