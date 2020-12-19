@@ -22,7 +22,7 @@ Throughout planning, certain things may fall outside of your scope of knowledge,
 
 Functional programming further illustrated to me the power of a "wide scope of measurement," as chaining functions together in a well-thought-out sequence can circumvent temporary storage and can even expand bottom-line functionality.
 
-My essay "The Safe, Semi-Motorized Ornithopter" outlines this idea in relation to UI Frameworks, but I've found it to be ubiquitous in software engineering.
+My essay ["The Safe, Semi-Motorized Ornithopter"](https://keekss.github.io/essays/semi-motorized-ornithopter.html) outlines this idea in relation to UI Frameworks, but I've found it to be ubiquitous in software engineering.
 
 ## Redirecting Instinct
 
