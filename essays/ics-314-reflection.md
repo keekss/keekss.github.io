@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Measure Once, But Far and Often! - ICS 314 Takeaways
+title: Measure Once, But Far and Often!
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-18
 labels:
