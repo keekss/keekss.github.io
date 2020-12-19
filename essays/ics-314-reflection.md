@@ -10,6 +10,8 @@ labels:
   - Web Development
 ---
 
+<img style="display: inline-block; height: 300px; margin-left: auto; margin-right: auto;" src="../images/measurement.jpg">
+
 ## Adage Adjusted
 
 A recurrent theme in my computer science development, which ICS 314 proved to me most directly, is that––before any code––planning exhaustively within your current scope, then repeating as things change, though seemingly overly-cautious, saves time overall.
