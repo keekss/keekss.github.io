@@ -10,4 +10,4 @@ labels:
   - Web Development
 ---
 
-One takeaway 
+One takeaway, a theme throughout my computer science development that shone through clearly in ICS 314,
