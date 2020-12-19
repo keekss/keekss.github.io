@@ -30,6 +30,6 @@ As creatures that like to have things addressed and done, our common (and often 
 
 However, through several unfortunately backtracked and rehashed implementation endeavours, the disheartening process of deleting blocks upon blocks of code has ingrained in me that cutting corners often requires you to run part or all of the race over.
 
-Rather than block out this instinct, however, I suggest re-framing what that impulse prompts- that is, planning, though absent from executables, is empirical, measurable progress.  Allowing your mind to more accurately focus that "go-to" mindset can utilize the best of both worlds.
+Rather than block out this instinct, however, I suggest re-framing what that impulse prompts- that is, planning, though absent from executables, is, empirically, progress.  Allowing your mind to more accurately focus that "go-to" mindset can utilize the best of both worlds.
 
 <sup>1</sup> One might contend that "measuring twice" is more about correctness of procedure than analog accuracy, but "measuring far" in software engineering entails also considering alternatives, thus double-checking that your procedure is efficient.
