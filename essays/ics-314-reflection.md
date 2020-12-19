@@ -10,4 +10,4 @@ labels:
   - Web Development
 ---
 
-One takeaway, a theme throughout my computer science development that shone through clearly in ICS 314,
+A recurrent theme in my computer science development that shone through clearly in ICS 314, is that <emph>planning until you can't anymore often saves time overall</emph>.
