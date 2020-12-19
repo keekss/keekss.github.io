@@ -20,7 +20,7 @@ The adage "measure twice, cut once" echoes into many things; however, in softwar
 
 Throughout planning, certain things may fall outside of your scope of knowledge, and coding through simple examples to answer your questions is optimal.
 
-Functional programming further illustrated to me the power of a "wide scope of measurement," as chaining functions together in a well-thought-out sequence can circumvent temporary storage, entire classes, and can even provide expand bottom-line capabilities.
+Functional programming further illustrated to me the power of a "wide scope of measurement," as chaining functions together in a well-thought-out sequence can circumvent temporary storage and can even expand bottom-line functionality.
 
 My essay "The Safe, Semi-Motorized Ornithopter" outlines this idea in relation to UI Frameworks, but I've found it to be ubiquitous in software engineering.
 
