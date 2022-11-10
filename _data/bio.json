@@ -1,16 +1,30 @@
 {
   "basics": {
-    "name": "Nicholas \"Kiko\" Whiteley",
+    "name": "Nicholas (Kiko) Whiteley",
     "label": "Student",
     "picture": "https://github.com/keekss.png",
     "email": "new2@hawaii.edu",
     "phone": "808-741-1881",
     "website": "https://keekss.github.io",
-    "summary": "I am studying Computer Science and Mathematics at the University of Hawaii at Manoa and working part-time as a technician for Apple Retail.",
-    "location": { "address": "", "postalCode": "96825", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I am studying Computer Science and Mathematics at the University of Hawaii at Manoa with an emphasis on machine learning.  I also work part-time as a technician for Apple Retail.",
+    "location": {
+      "address": "",
+      "postalCode": "96825",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii" 
+    },
     "profiles": [
-      { "network": "github", "username": "keekss", "url": "http://github.com/keekss" },
-      { "network": "linkedin", "username": "kiko-whiteley", "url": "https://www.linkedin.com/in/kiko-whiteley/" }
+      {
+        "network": "github", 
+        "username": "keekss", 
+        "url": "http://github.com/keekss" 
+      },
+      { 
+        "network": "linkedin", 
+        "username": "kiko-whiteley", 
+        "url": "https://www.linkedin.com/in/kiko-whiteley/" 
+      }
     ]
   },
   "interests": [
